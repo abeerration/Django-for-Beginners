@@ -27,4 +27,4 @@ This tutorial is about learning Django web app development.
 
 | # | Chapter | Project Code |
 | ----------- | ----------- | ----------- |
-| **1.** |  | [](https://github.com/abeerration/Django-for-Beginners/tree/main/) |
+| **1.** |  | [code](https://github.com/abeerration/Django-for-Beginners/tree/main/) |
