@@ -19,7 +19,7 @@ This tutorial is about learning Django web app development.
 
 | # | Cover | Title |
 | ----------- | ----------- | ----------- |
-| **1.** | ![](django3book.jpg) | <h4><i>Andrey Bulezyuk</i></h4><h2>Django 3 for Beginners</h2><h4>Code: [https://github.com/AndreyBulezyuk/Django-3-Book](https://github.com/AndreyBulezyuk/Django-3-Book)</h4><p>2021</p><p align="center"><i>Book</i></p> |
+| **1.** | ![](django3book.jpg) | <h4><i>Andrey Bulezyuk</i></h4><h2>Django 3 for Beginners</h2><h4>GitHub: [https://github.com/AndreyBulezyuk/Django-3-Book](https://github.com/AndreyBulezyuk/Django-3-Book)</h4><p>2021</p><p align="center"><i>Book</i></p> |
 
 ---
 
