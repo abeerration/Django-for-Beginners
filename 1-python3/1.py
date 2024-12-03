@@ -59,5 +59,10 @@ floorDivision = 999//100
 print(floorDivision)
 print(type(floorDivision)) #Floor Division
 
+noBrackets = 1000/10+50
+print(noBrackets)
+withBrackets = 1000/(10+50)
+print(withBrackets)
+
 print("\n------------------\n")
 
