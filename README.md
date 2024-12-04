@@ -27,11 +27,11 @@ This tutorial is about learning Django web app development.
 
 | # | Chapter | Project Code |
 | ----------- | ----------- | ----------- |
-| **1.** | Python 3 | [code](https://github.com/abeerration/Django-for-Beginners/tree/main/) |
-| **1.** | Django 3 | [code](https://github.com/abeerration/Django-for-Beginners/tree/main/) |
-| **1.** | Basics | [code](https://github.com/abeerration/Django-for-Beginners/tree/main/) |
-| **1.** | Application | [code](https://github.com/abeerration/Django-for-Beginners/tree/main/) |
-| **1.** | Views | [code](https://github.com/abeerration/Django-for-Beginners/tree/main/) |
-| **1.** | Advice | [code](https://github.com/abeerration/Django-for-Beginners/tree/main/) |
-| **1.** | REST API - DRF | [code](https://github.com/abeerration/Django-for-Beginners/tree/main/) |
-| **1.** | Cloud Deploy | [code](https://github.com/abeerration/Django-for-Beginners/tree/main/) |
+| **1.** | Python 3 | [code](https://github.com/abeerration/Django-for-Beginners/tree/main/1-python3) |
+| **2.** | Django 3 | [code]() |
+| **3.** | Basics | [code]() |
+| **4.** | Application | [code]() |
+| **5.** | Views | [code]() |
+| **6.** | Advice | [code]() |
+| **7.** | REST API - DRF | [code]() |
+| **8.** | Cloud Deploy | [code]() |
